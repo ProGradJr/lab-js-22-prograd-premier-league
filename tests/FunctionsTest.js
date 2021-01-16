@@ -285,7 +285,7 @@ describe("Filter players based on  position - filterByPosition", function() {
         name: "Virgil van Dijk",
         age: 26,
         debut: 2011,
-        team: "Liverpool ",
+        team: "Liverpool",
         position: "Defender",
         country: "Netherlands",
         url:
